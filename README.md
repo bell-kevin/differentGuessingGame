@@ -18,6 +18,8 @@ Take 3 screenshots, as shown above.
 
 ![p](https://github.com/bell-kevin/differentGuessingGame/blob/main/Screenshot%20from%202023-03-02%2015-40-24.png)
 
+![p](https://github.com/bell-kevin/differentGuessingGame/blob/main/Screenshot%20from%202023-03-02%2016-13-43.png)
+
 Submission: Zip together the root folder and the 3 screenshots, and submit the single zipped folder.
 
 Create one app. for both Android and iOS (Apple) using one computer alorithm for both apps. You'll need Visual Studio Code and Android Studio to get started:
