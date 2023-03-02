@@ -13,7 +13,7 @@ const App = () => {
 let styles = StyleSheet.create({
   rootContainer: {
     flex: 1,
-    marginTop: 100,
+    marginTop: 50,
     alignItems: 'center',
   },
 });
