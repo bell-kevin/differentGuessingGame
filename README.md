@@ -14,9 +14,9 @@ Take 3 screenshots.
 
 ![p](https://github.com/bell-kevin/differentGuessingGame/blob/main/Screenshot%20from%202023-03-02%2016-19-33.png)
 
-![p](https://github.com/bell-kevin/differentGuessingGame/blob/main/Screenshot%20from%202023-03-02%2015-40-24.png)
-
 ![p](https://github.com/bell-kevin/differentGuessingGame/blob/main/Screenshot%20from%202023-03-02%2016-13-43.png)
+
+![p](https://github.com/bell-kevin/differentGuessingGame/blob/main/pic3.PNG)
 
 Submission: Zip together the root folder and the 3 screenshots, and submit the single zipped folder.
 
