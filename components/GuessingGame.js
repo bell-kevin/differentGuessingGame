@@ -17,6 +17,10 @@ const GuessingGame = () => {
   // Function to handle guess submission
   const handleGuessSubmission = () => {
     const guessedNumber = parseInt(guess);
+    if (isNaN(guessedNumber) || guessedNumber < 1 || guessedNumber > 100) {
+      setFeedback('Please enter a valid number between 1 and 100');
+      return;
+    }
     setRounds(rounds + 1);
     setGuesses([guessedNumber, ...guesses]);
     if (guessedNumber === targetNumber) {
@@ -28,6 +32,7 @@ const GuessingGame = () => {
     }
     setGuess(''); // clear input field
   };
+  
 
   // Function to handle new game start
   const handleNewGameStart = () => {
