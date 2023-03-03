@@ -18,7 +18,7 @@ Take 3 screenshots.
 
 ![p](https://github.com/bell-kevin/differentGuessingGame/blob/main/Screenshot%20from%202023-03-02%2016-13-43.png)
 
-![p](https://github.com/bell-kevin/differentGuessingGame/blob/main/finalPic.PNG)
+![p](https://github.com/bell-kevin/differentGuessingGame/blob/main/correctNumberOfRounds.PNG)
 
 Submission: Zip together the root folder and the 3 screenshots, and submit the single zipped folder.
 
